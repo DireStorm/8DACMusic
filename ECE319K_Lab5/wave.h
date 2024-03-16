@@ -6,6 +6,6 @@
 extern const uint8_t FastPiano[35630];
 extern const uint8_t Coin[3975];
 extern const uint8_t rage[16485];
-extern const uint8_t phonk[13218];
+extern const uint8_t swvader[15112];
 
 #endif
